@@ -9,5 +9,5 @@
   <text x="470" y="169" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="58" font-weight="800" fill="url(#word)" letter-spacing="-1">Top AI Agent Guardrails</text>
   <rect x="473" y="183" width="420" height="3" rx="1.5" fill="url(#rule)"/>
   <text x="473" y="217" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Guardrails for AI agents: sandboxes, human-in-the-loop approval, cost and budget limits, prompt-injection defenses and runtime policy checks, ranked by GitHub stars</text>
-  <text x="473" y="259" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#a371f7">★ 60 entries · 440.2k stars · EN + ZH · rebuilt daily</text>
+  <text x="473" y="259" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#a371f7">★ 60 entries · 446.7k stars · EN + ZH · rebuilt daily</text>
 </svg>
